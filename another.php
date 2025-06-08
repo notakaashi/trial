@@ -91,4 +91,6 @@
 
     displayschoolinfo();
 
+
+    HEHEHEHE
     ?> 
