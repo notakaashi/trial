@@ -90,7 +90,4 @@
     }
 
     displayschoolinfo();
-
-
-    HEHEHEHE
     ?> 
