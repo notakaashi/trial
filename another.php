@@ -91,9 +91,3 @@
 
     displayschoolinfo();
     ?> \
-
-asfasfasfa
-
-what if the saasdasd
-asdasd
-
