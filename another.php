@@ -90,4 +90,12 @@
     }
 
     displayschoolinfo();
-    ?> 
+    ?> \
+
+
+errmm 
+
+what the date_timezone_get
+
+
+php 
