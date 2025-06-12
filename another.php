@@ -92,10 +92,6 @@
     displayschoolinfo();
     ?> \
 
+asfasfasfa
 
-errmm 
-
-what the date_timezone_get
-
-
-asdasphp asasfasf 
+what if the sa
