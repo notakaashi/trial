@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-ahahahaasfasfa
-=======
+
 <?php
 
 const passinggrade="50";
@@ -59,5 +57,3 @@ else {
 echo "<p>Student: " . $student[5] . " <br> has a total score of: " . $totals . " <br>  and marked as : " . $grades . "</p>"; 
 
 ?>
-
->>>>>>> d7a0a50388eadf880ede963c7e0f1859f80c1958
