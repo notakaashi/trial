@@ -1,5 +1,5 @@
 <?php
-
+hahahaha
 const passinggrade = 75;
 const maxscore = 100;
 define ("schoolname","TUPT IT");
