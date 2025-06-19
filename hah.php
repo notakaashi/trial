@@ -57,5 +57,5 @@ echo "<p>Copies of ". $book[3] . " left: " . $copies[3] . "</p>";
 $totalfee = latefee * 3;
 
 printf("Total fee: %.2f", $totalfee);
-
+araraasd
 ?>
