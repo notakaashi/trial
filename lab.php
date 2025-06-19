@@ -93,3 +93,5 @@ $examscores = array (80,89,88,87,86,85,84,83,82,81);
     displayschoolinfo();
     ?> 
 
+
+
