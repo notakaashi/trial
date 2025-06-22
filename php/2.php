@@ -14,6 +14,7 @@ else{
     }
 }
 
+echo "<br>";
 
 if (count($testscores["sciencescores"])<5){
 echo "im sorry for being lazy :P";
@@ -23,16 +24,15 @@ foreach($testscores["sciencescores"] as $value){
         echo "$value <br>";
     }
 }
-
+echo "<br>";
 sort($testscores["mathscores"]);
   foreach($testscores["mathscores"] as $value){
         echo "$value <br>";
     }
-
+echo "<br>";
 rsort($testscores["sciencescores"]);
   foreach($testscores["sciencescores"] as $value){
         echo "$value <br>";
     }
-
-
+echo "<br>";
 ?>
