@@ -32,5 +32,3 @@
     Summary: Role-based staff access system with secure authentication and activity monitoring.
     Reporting
     Summary: Comprehensive reporting suite for operational, financial, and performance analytics with dashboard views.
-
-
